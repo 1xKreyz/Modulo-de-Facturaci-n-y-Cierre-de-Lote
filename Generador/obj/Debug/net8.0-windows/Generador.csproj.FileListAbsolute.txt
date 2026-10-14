@@ -1,0 +1,17 @@
+C:\Users\Sr_Wayne\source\repos\Generador\bin\Debug\net8.0-windows\Generador.exe
+C:\Users\Sr_Wayne\source\repos\Generador\bin\Debug\net8.0-windows\Generador.deps.json
+C:\Users\Sr_Wayne\source\repos\Generador\bin\Debug\net8.0-windows\Generador.runtimeconfig.json
+C:\Users\Sr_Wayne\source\repos\Generador\bin\Debug\net8.0-windows\Generador.dll
+C:\Users\Sr_Wayne\source\repos\Generador\bin\Debug\net8.0-windows\Generador.pdb
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.Form1.resources
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.csproj.GenerateResource.cache
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.AssemblyInfoInputs.cache
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.AssemblyInfo.cs
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.csproj.CoreCompileInputs.cache
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.dll
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\refint\Generador.dll
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.pdb
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.genruntimeconfig.cache
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\ref\Generador.dll
+C:\Users\Sr_Wayne\source\repos\Generador\obj\Debug\net8.0-windows\Generador.csproj.Up2Date
